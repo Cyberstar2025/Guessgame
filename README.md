@@ -36,6 +36,7 @@ Setelah 5 tebakan:
 Program akan memberi tahu apakah angka rahasia genap atau ganjil.
 Setelah 8 tebakan:
 Akan muncul petunjuk tambahan tentang arah angka rahasia.
+
 🧠 Kesimpulan
 
 
