@@ -38,8 +38,7 @@ Setelah 8 tebakan:
 Akan muncul petunjuk tambahan tentang arah angka rahasia.
 🧠 Kesimpulan
 
-Fitur-fitur baru ini menjadikan game tebak angka yang sederhana terasa lebih interaktif dan “hidup”.
-Kamu bukan hanya sekadar menebak, tapi juga menganalisis, mengingat, dan mengambil keputusan berdasarkan petunjuk yang muncul.
 
 Fitur-fitur baru ini menjadikan game tebak angka yang sederhana terasa lebih interaktif dan “hidup”.
 Kamu bukan hanya sekadar menebak, tapi juga menganalisis, mengingat, dan mengambil keputusan berdasarkan petunjuk yang muncul.
+
